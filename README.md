@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Kunal Singh
 
-<!--
-**kunalsingh342007-eng/kunalsingh342007-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+💻 Learning:
+- C++
+- Python
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in:
+- Artificial Intelligence
+- Web Development
+- Open Source
+
+## 🛠 Skills
+
+- C
+- C++
+- Python
+- HTML
+- CSS
+- Git
+
+## 📚 Education
+
+Bachelor of Technology
+
+## 🚀 Projects
+
+### Student Management System
+- Built using C++
+- File handling
+- CRUD operations
+
+### Portfolio Website
+- HTML
+- CSS
+- JavaScript
+
+## 📫 Contact
+
+Email: yourmail@example.com
