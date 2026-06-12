@@ -39,7 +39,7 @@ Bachelor of Technology
 
 ## 📫 Contact
 
-Email: yourmail@example.com
+Email: kunalsingh342007@gmail.com
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kunalsingh342007-eng&show_icons=true) 
