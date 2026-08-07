@@ -1,64 +1,64 @@
-<h1 align="center">Hi there, I'm Kunal Singh 👋</h1>
+<h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 
-<h3 align="center">Aspiring Software Engineer | B.Tech Student | Building with C++, Python & the Web</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern-in-Making;DSA+%26+Problem+Solving+Enthusiast;Open+Source+Contributor+in+Progress;Turning+Ideas+Into+Code" alt="Typing SVG" />
-</p>
+<h3 align="center">
+A Passionate B.Tech CSE Student | C++ Developer | Problem Solver | Aspiring Software Engineer
+</h3>
 
 <p align="center">
-  <a href="mailto:kunalsingh342007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kunal-singh-56168838b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/kunalsingh342007-eng">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kunalsingh342007-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **B.Tech student** passionate about building efficient, real-world software solutions.
-- 🌱 I enjoy solving problems with **C++** and **Python**, and I'm steadily strengthening my **Data Structures & Algorithms** foundation.
-- 💻 I like turning ideas into clean, functional applications — from backend logic to simple, usable interfaces.
-- 🚀 Currently preparing for **software engineering internships and placements**.
-- 🤝 Open to collaborating on beginner-friendly open-source projects.
+- 🎓 B.Tech Computer Science Student
+- 💻 Passionate about Software Development and Problem Solving
+- 🌱 Currently learning **Data Structures & Algorithms**, **Web Development**, and **Database Management**
+- 🚀 Preparing for Software Engineering Internships and Placements
+- 🤝 Looking to collaborate on beginner-friendly Open Source Projects
+- ⚡ I enjoy building clean, efficient, and practical software solutions.
 
 ---
 
 ## 📚 Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/C++-Deep%20Diving-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Leveling%20Up-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-Practicing%20Daily-orange?style=flat-square&logo=leetcode&logoColor=white"/>
-</p>
+- 📖 Data Structures & Algorithms
+- 🌐 HTML, CSS & JavaScript
+- ⚛️ React.js
+- 🛢️ MySQL
+- 🐙 Git & GitHub
+- ☁️ Backend Development Fundamentals
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py" alt="Programming Languages" />
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
+</p>
 
-**Frontend**
+### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-**Tools & Technologies**
+### 🛢️ Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools & Technologies" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-**Databases**
+> 📌 Currently learning relational databases as part of my Full-Stack journey.
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
+### 🛠️ Tools & Technologies
 
-> 📌 *Currently learning to work with relational databases as part of my full-stack journey.*
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
@@ -66,30 +66,48 @@
 
 | Area | Focus |
 |------|-------|
-| 🤖 Artificial Intelligence | Exploring ML fundamentals and real-world AI applications |
-| 🌐 Web Development | Building responsive, user-friendly web interfaces |
-| 🌍 Open Source | Contributing to and learning from community-driven projects |
+| 🤖 Artificial Intelligence | Exploring AI & Machine Learning Fundamentals |
+| 🌐 Web Development | Building Responsive & User-Friendly Websites |
+| 💻 Software Development | Writing Clean & Efficient Code |
+| 🌍 Open Source | Learning Through Community Contributions |
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies | Repository |
-|---------|--------------|---------------|-------------|
-| **Student Management System** | A console-based system to manage student records with full **CRUD operations** and persistent **file handling**. | `C++` | [View Repo](https://github.com/kunalsingh342007-eng/student-management-system) |
-| **Portfolio Website** | A personal portfolio website showcasing my skills and projects, built with a focus on clean, responsive design. | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/kunalsingh342007-eng/portfolio-website) |
+|---------|-------------|--------------|------------|
+| **Student Management System** | Console-based application supporting CRUD operations with persistent file handling. | `C++` | [View Repository](https://github.com/kunalsingh342007-eng/student-management-system) |
+| **Portfolio Website** | Responsive personal portfolio showcasing my projects and skills. | `HTML` `CSS` `JavaScript` | [View Repository](https://github.com/kunalsingh342007-eng/portfolio-website) |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalsingh342007-eng&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kunal's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh342007-eng&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunalsingh342007-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh342007-eng&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kunalsingh342007-eng&theme=default&hide_border=true" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=kunalsingh342007-eng&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kunalsingh342007-eng&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalsingh342007-eng&theme=tokyo-night"/>
 </p>
 
 ---
@@ -97,39 +115,44 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/?username=TO6TvSS85m" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/TO6TvSS85m?theme=dark&font=Nunito&ext=heatmap"/>
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:kunalsingh342007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kunalsingh342007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kunal-singh-56168838b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kunalsingh342007-eng">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="left">
+
+<a href="https://github.com/kunalsingh342007-eng" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kunal-singh-56168838b/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:kunalsingh342007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://leetcode.com/u/TO6TvSS85m/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
+</a>
+
 </p>
 
 ---
 
-## 💡 Fun Fact
+## 💡 Quote
 
-> "First, solve the problem. Then, write the code." — *John Johnson*
-
-I believe great software starts with clear thinking, not just fast typing. 🧠✨
+> **"First, solve the problem. Then, write the code."**  
+> — *John Johnson*
 
 ---
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> Always open to feedback, collaboration, and new opportunities. ⭐
-</p>
+<h2 align="center">⚡ Thanks for visiting my profile! ⚡</h2>
 
 <p align="center">
-  <sub>Built with ❤️ by Kunal Singh</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
