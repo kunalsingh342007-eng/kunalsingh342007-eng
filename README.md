@@ -15,6 +15,7 @@
 🐙 Git & GitHub
 ☁️ Backend Development Fundamentals
 <p> <img src="https://img.shields.io/badge/C++-Deep%20Diving-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-Leveling%20Up-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/DSA-Practicing%20Daily-orange?style=flat-square&logo=leetcode&logoColor=white"/> </p>
+
 🛠️ Technical Skills
 
 Programming Languages
@@ -41,10 +42,12 @@ Area	Focus
 🌐 Web Development	Building responsive, user-friendly web interfaces
 💻 Software Development	Writing clean and efficient code
 🌍 Open Source	Contributing to and learning from community-driven projects
+
 🚀 Featured Projects
 Project	Description	Technologies	Repository
 Student Management System	A console-based system to manage student records with full CRUD operations and persistent file handling.	C++	View Repo
-Portfolio Website	A personal portfolio website showcasing my skills and projects, built with a focus on clean, responsive design.	HTML CSS JavaScript	View Repo
+Portfolio Website	A personal portfolio website showcasing my skills and projects, built with a focus on clean, responsive design.
+
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kunalsingh342007-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kunal's GitHub Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh342007-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=kunalsingh342007-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/> </p>
 🏆 GitHub Trophies
