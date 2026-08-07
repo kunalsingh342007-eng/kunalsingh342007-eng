@@ -46,9 +46,6 @@
 
 ---
 
-## Databases
-
-> Currently exploring databases.
 
 ---
 
@@ -83,29 +80,21 @@
 | **Portfolio Website** | Personal responsive portfolio website showcasing skills and projects. | HTML, CSS, JavaScript | `Add Repository Link` |
 
 ---
-
-## 📊 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kunalsingh342007-eng&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh342007-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kunalsingh342007-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh342007-eng&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kunalsingh342007-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kunalsingh342007-eng&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kunalsingh342007-eng&theme=transparent&hide_border=true" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalsingh342007-eng&theme=tokyonight" />
 </p>
-
 ---
 
 
