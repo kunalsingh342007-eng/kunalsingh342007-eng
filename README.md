@@ -97,10 +97,10 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=light&font=Fira Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/kunalsingh342007-eng?theme=light&font=Fira Code&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
-> 🔧 *Replace `yourleetcodeusername` with your actual LeetCode username to activate this card.*
+
 
 ---
 
