@@ -10,10 +10,10 @@
   <a href="mailto:kunalsingh342007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/kunal-singh-56168838b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/kunalsingh342007-eng">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -76,15 +76,15 @@
 
 | Project | Description | Technologies | Repository |
 |---------|--------------|---------------|-------------|
-| **Student Management System** | A console-based system to manage student records with full **CRUD operations** and persistent **file handling**. | `C++` | [View Repo](https://github.com/yourusername/student-management-system) |
-| **Portfolio Website** | A personal portfolio website showcasing my skills and projects, built with a focus on clean, responsive design. | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/yourusername/portfolio-website) |
+| **Student Management System** | A console-based system to manage student records with full **CRUD operations** and persistent **file handling**. | `C++` | [View Repo](https://github.com/kunalsingh342007-eng/student-management-system) |
+| **Portfolio Website** | A personal portfolio website showcasing my skills and projects, built with a focus on clean, responsive design. | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/kunalsingh342007-eng/portfolio-website) |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://githubreadmestats.vercel.app/apiusername=kunalsingh342007eng&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kunal's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalsingh342007-eng&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kunal's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh342007-eng&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
@@ -97,10 +97,8 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kunalsingh342007-eng?theme=light&font=Fira Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcode-stats-card.vercel.app/?username=TO6TvSS85m" alt="LeetCode Stats"/>
 </p>
-
-
 
 ---
 
@@ -110,7 +108,7 @@
   <a href="mailto:kunalsingh342007@gmail.com">
     <img src="https://img.shields.io/badge/Email-kunalsingh342007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/kunal-singh-56168838b/">
+  <a href="https://www.linkedin.com/in/kunal-singh-56168838b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/kunalsingh342007-eng">
