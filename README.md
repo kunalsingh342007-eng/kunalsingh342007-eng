@@ -1,19 +1,7 @@
 <h1 align="center">Hi there, I'm Kunal Singh 👋</h1> <h3 align="center">Aspiring Software Engineer | B.Tech Student | Building with C++, Python & the Web</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern-in-Making;DSA+%26+Problem+Solving+Enthusiast;Open+Source+Contributor+in+Progress;Turning+Ideas+Into+Code" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=kunalsingh342007-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p> <p align="center"> <a href="mailto:kunalsingh342007@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/kunal-singh-56168838b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/kunalsingh342007-eng"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
-👨‍💻 About Me
-🎓 I'm a B.Tech Computer Science student passionate about building efficient, real-world software solutions.
-💻 Passionate about software development and problem solving.
-🌱 I enjoy solving problems with C++ and Python, and I'm steadily strengthening my Data Structures & Algorithms foundation.
-🌐 Currently learning Web Development and Database Management alongside DSA.
-🚀 Currently preparing for software engineering internships and placements.
-🤝 Open to collaborating on beginner-friendly open-source projects.
-⚡ I enjoy building clean, efficient, and practical software solutions.
-📚 Currently Learning
-📖 Data Structures & Algorithms
-🌐 HTML, CSS & JavaScript
-⚛️ React.js
-🛢️ MySQL
-🐙 Git & GitHub
-☁️ Backend Development Fundamentals
+👨‍💻 About Me🎓 I'm a B.Tech Computer Science student passionate about building efficient, real-world software solutions.💻 Passionate about software development and problem solving.🌱 I enjoy solving problems with C++ and Python, and I'm steadily strengthening my Data Structures & Algorithms foundation.🌐 Currently learning Web Development and Database Management alongside DSA.🚀 Currently preparing for software engineering internships and placements.🤝 Open to collaborating on beginner-friendly open-source projects.⚡ I enjoy building clean, efficient, and practical software solutions.
+
+📚 Currently Learning📖 Data Structures & Algorithms🌐 HTML, CSS & JavaScript⚛️ React.js🛢️ MySQL🐙 Git & GitHub☁️ Backend Development Fundamentals
 <p> <img src="https://img.shields.io/badge/C++-Deep%20Diving-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-Leveling%20Up-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/DSA-Practicing%20Daily-orange?style=flat-square&logo=leetcode&logoColor=white"/> </p>
 
 🛠️ Technical Skills
