@@ -5,85 +5,69 @@ A Passionate B.Tech CSE Student | C++ Developer | Problem Solver | Aspiring Soft
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kunalsingh342007-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=kunalsingh342007-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
----
+👨‍💻 About Me
+🎓 B.Tech Computer Science Student
 
-## 👨‍💻 About Me
+💻 Passionate about Software Development and Problem Solving
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Passionate about Software Development and Problem Solving
-- 🌱 Currently learning **Data Structures & Algorithms**, **Web Development**, and **Database Management**
-- 🚀 Preparing for Software Engineering Internships and Placements
-- 🤝 Looking to collaborate on beginner-friendly Open Source Projects
-- ⚡ I enjoy building clean, efficient, and practical software solutions.
+🌱 Currently learning Data Structures & Algorithms, Web Development, and Database Management
 
----
+🚀 Preparing for Software Engineering Internships and Placements
 
-## 📚 Currently Learning
+🤝 Looking to collaborate on beginner-friendly Open Source Projects
 
-- 📖 Data Structures & Algorithms
-- 🌐 HTML, CSS & JavaScript
-- ⚛️ React.js
-- 🛢️ MySQL
-- 🐙 Git & GitHub
-- ☁️ Backend Development Fundamentals
+⚡ I enjoy building clean, efficient, and practical software solutions.
 
----
+📚 Currently Learning
+📖 Data Structures & Algorithms
 
-## 🛠️ Technical Skills
+🌐 HTML, CSS & JavaScript
 
-### 💻 Programming Languages
+⚛️ React.js
 
+🛢️ MySQL
+
+🐙 Git & GitHub
+
+☁️ Backend Development Fundamentals
+
+🛠️ Technical Skills
+💻 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
 </p>
 
-### 🌐 Frontend
-
+🌐 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🛢️ Databases
-
+🛢️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-> 📌 Currently learning relational databases as part of my Full-Stack journey.
+📌 Currently learning relational databases as part of my Full-Stack journey.
 
-### 🛠️ Tools & Technologies
-
+🛠️ Tools & Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
----
-
-## 🎯 Interests
-
-| Area | Focus |
-|------|-------|
-| 🤖 Artificial Intelligence | Exploring AI & Machine Learning Fundamentals |
-| 🌐 Web Development | Building Responsive & User-Friendly Websites |
-| 💻 Software Development | Writing Clean & Efficient Code |
-| 🌍 Open Source | Learning Through Community Contributions |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Technologies | Repository |
-|---------|-------------|--------------|------------|
-| **Student Management System** | Console-based application supporting CRUD operations with persistent file handling. | `C++` | [View Repository](https://github.com/kunalsingh342007-eng/student-management-system) |
-| **Portfolio Website** | Responsive personal portfolio showcasing my projects and skills. | `HTML` `CSS` `JavaScript` | [View Repository](https://github.com/kunalsingh342007-eng/portfolio-website) |
-
----
-
-## 📊 GitHub Stats
-
+🎯 Interests
+Area	Focus
+🤖 Artificial Intelligence	Exploring AI & Machine Learning Fundamentals
+🌐 Web Development	Building Responsive & User-Friendly Websites
+💻 Software Development	Writing Clean & Efficient Code
+🌍 Open Source	Learning Through Community Contributions
+🚀 Featured Projects
+Project	Description	Technologies	Repository
+Student Management System	Console-based application supporting CRUD operations with persistent file handling.	C++	View Repository
+Portfolio Website	Responsive personal portfolio showcasing my projects and skills.	HTML CSS JavaScript	View Repository
+📊 GitHub Stats
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=kunalsingh342007-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
@@ -94,34 +78,22 @@ A Passionate B.Tech CSE Student | C++ Developer | Problem Solver | Aspiring Soft
 <img src="https://streak-stats.demolab.com?user=kunalsingh342007-eng&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
+🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kunalsingh342007-eng&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
----
-
-## 📈 GitHub Activity Graph
-
+📈 GitHub Activity Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalsingh342007-eng&theme=tokyo-night"/>
 </p>
 
----
-
-## 🧩 LeetCode Stats
-
+🧩 LeetCode Stats
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/TO6TvSS85m?theme=dark&font=Nunito&ext=heatmap"/>
 </p>
 
----
-
-## 🌐 Connect With Me
-
+🌐 Connect With Me
 <p align="left">
 
 <a href="https://github.com/kunalsingh342007-eng" target="_blank">
@@ -142,14 +114,9 @@ A Passionate B.Tech CSE Student | C++ Developer | Problem Solver | Aspiring Soft
 
 </p>
 
----
-
-## 💡 Quote
-
-> **"First, solve the problem. Then, write the code."**  
-> — *John Johnson*
-
----
+💡 Quote
+"First, solve the problem. Then, write the code."
+— John Johnson
 
 <h2 align="center">⚡ Thanks for visiting my profile! ⚡</h2>
 
