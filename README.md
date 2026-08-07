@@ -1,55 +1,137 @@
-# Hi 👋, I'm Kunal Singh
+<h1 align="center">Hi there, I'm Kunal Singh 👋</h1>
 
-🎓 B.Tech Student
+<h3 align="center">Aspiring Software Engineer | B.Tech Student | Building with C++, Python & the Web</h3>
 
-💻 Learning:
-- C++
-- Python
-- Data Structures & Algorithms
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern-in-Making;DSA+%26+Problem+Solving+Enthusiast;Open+Source+Contributor+in+Progress;Turning+Ideas+Into+Code" alt="Typing SVG" />
+</p>
 
-🚀 Interested in:
-- Artificial Intelligence
-- Web Development
-- Open Source
+<p align="center">
+  <a href="mailto:kunalsingh342007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-## 🛠 Skills
+---
 
-- C
-- C++
-- Python
-- HTML
-- CSS
-- Git
+## 👨‍💻 About Me
 
-## 📚 Education
+- 🎓 I'm a **B.Tech student** passionate about building efficient, real-world software solutions.
+- 🌱 I enjoy solving problems with **C++** and **Python**, and I'm steadily strengthening my **Data Structures & Algorithms** foundation.
+- 💻 I like turning ideas into clean, functional applications — from backend logic to simple, usable interfaces.
+- 🚀 Currently preparing for **software engineering internships and placements**.
+- 🤝 Open to collaborating on beginner-friendly open-source projects.
 
-Bachelor of Technology
+---
 
-## 🚀 Projects
+## 📚 Currently Learning
 
-### Student Management System
-- Built using C++
-- File handling
-- CRUD operations
+<p>
+  <img src="https://img.shields.io/badge/C++-Deep%20Diving-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Leveling%20Up-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Practicing%20Daily-orange?style=flat-square&logo=leetcode&logoColor=white"/>
+</p>
 
-### Portfolio Website
-- HTML
-- CSS
-- JavaScript
+---
 
-## 📫 Contact
+## 🛠️ Technical Skills
 
-Email: kunalsingh342007@gmail.com
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py" alt="Programming Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
+
+**Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools & Technologies" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
+
+> 📌 *Currently learning to work with relational databases as part of my full-stack journey.*
+
+---
+
+## 🎯 Interests
+
+| Area | Focus |
+|------|-------|
+| 🤖 Artificial Intelligence | Exploring ML fundamentals and real-world AI applications |
+| 🌐 Web Development | Building responsive, user-friendly web interfaces |
+| 🌍 Open Source | Contributing to and learning from community-driven projects |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies | Repository |
+|---------|--------------|---------------|-------------|
+| **Student Management System** | A console-based system to manage student records with full **CRUD operations** and persistent **file handling**. | `C++` | [View Repo](https://github.com/yourusername/student-management-system) |
+| **Portfolio Website** | A personal portfolio website showcasing my skills and projects, built with a focus on clean, responsive design. | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/yourusername/portfolio-website) |
+
+---
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kunalsingh342007-eng&show_icons=true) 
+<p align="center">
+  <img src="https://githubreadmestats.vercel.app/apiusername=kunalsingh342007eng&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kunal's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh342007-eng&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
-## 🛠 Technologies
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kunalsingh342007-eng&theme=default&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+## 🧩 LeetCode Stats
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=light&font=Fira Code&ext=heatmap" alt="LeetCode Stats"/>
+</p>
 
-![Banner](banner.png)
+> 🔧 *Replace `yourleetcodeusername` with your actual LeetCode username to activate this card.*
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:kunalsingh342007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kunalsingh342007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kunal-singh-56168838b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kunalsingh342007-eng">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 Fun Fact
+
+> "First, solve the problem. Then, write the code." — *John Johnson*
+
+I believe great software starts with clear thinking, not just fast typing. 🧠✨
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> Always open to feedback, collaboration, and new opportunities. ⭐
+</p>
+
+<p align="center">
+  <sub>Built with ❤️ by Kunal Singh</sub>
+</p>
