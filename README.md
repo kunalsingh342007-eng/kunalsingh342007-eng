@@ -108,15 +108,7 @@
 
 ---
 
-# 💻 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsingh342007-eng&layout=compact&theme=transparent&hide_border=true" />
-
-</p>
-
----
 
 # 🏆 LeetCode Statistics
 
