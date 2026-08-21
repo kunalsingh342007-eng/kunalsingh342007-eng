@@ -77,7 +77,7 @@
 | Project | Description | Technologies | Repository |
 |---------|-------------|-------------|------------|
 | **RuralCare – Telemedicine Platform** | RuralCare is an AI-powered, offline-first telemedicine platform that connects rural patients, health workers, and doctors for accessible healthcare. It enables AI-assisted triage, video consultations, digital prescriptions, and multilingual support in low-bandwidth environments. | React.js, Node.js, Express.js, Firebase, AI/ML, LiveKit, Tailwind CSS, Vite | `https://github.com/kunalsingh342007-eng/Ruralcare` |
-| **Portfolio Website** | Personal responsive portfolio website showcasing skills and projects. | HTML, CSS, JavaScript | `Add Repository Link` |
+| **Portfolio Website** | Personal responsive portfolio website showcasing skills and projects. | HTML, CSS, JavaScript | `https://github.com/kunalsingh342007-eng/my-portfolio` |
 
 ---
 ## 📈 GitHub Statistics
