@@ -151,22 +151,3 @@
 </div>
 ---
 
-### 🛠️ Tech Stack & Coding Achievements
-
-<p align="left">
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="LeetCode" />
-  <img src="https://shields.io" alt="DSA" />
-  <img src="https://shields.io" alt="Algorithms" />
-</p>
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://vercel.app" alt="Your GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="Your GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" width="350px" />
-</p>
